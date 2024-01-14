@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{050624F2-E396-4150-91D5-6EE5BDE24A73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smesharik", "Smesharik\Smesharik.csproj", "{CC0096AA-D723-4D9F-B58A-896B70DFF7AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{050624F2-E396-4150-91D5-6EE5BDE24A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{050624F2-E396-4150-91D5-6EE5BDE24A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{050624F2-E396-4150-91D5-6EE5BDE24A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{050624F2-E396-4150-91D5-6EE5BDE24A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC0096AA-D723-4D9F-B58A-896B70DFF7AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0096AA-D723-4D9F-B58A-896B70DFF7AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0096AA-D723-4D9F-B58A-896B70DFF7AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0096AA-D723-4D9F-B58A-896B70DFF7AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C59587C-0FD8-4F3F-978C-2BBE7B1EECE7}
+	EndGlobalSection
+EndGlobal
